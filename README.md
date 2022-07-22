@@ -78,11 +78,12 @@ Start the Client
 ### Create Group Chats and Dynamic Search
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/11_DynamicSearchGroupChat.png)
 ### Persistent Notifications
-![](https://github.com/nmansoorn/gap-de-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group (Admin vs Non-admin)
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/12_Notifications.png)
-### View User Profile
+### Add or Remove users from group (Admin vs Non-admin)
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/13_ViewDetailsAdmin.png)
+![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/14_ViewDetailsNonAdmin2.png)
+### View User Profile
+![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/15_UserProfile.png)
 
 ### Upcomming Features
 - Enable user to update/delete account
