@@ -63,8 +63,9 @@ Start the Client
 ### Authenticaton
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/2_LoginPage.png)
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/3_SignUpPage.png)
-### Responsive Minimalistic Design Dark/Light Mode
+### Responsive Minimalistic Design
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/4_ChatPage.png)
+### Dark/Light Mode
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/5_SingleChatResponsive.png)
 ![](https://github.com/nmansoorn/gap-de-chat-app/blob/main/screenshots/6_SingleChatLightMode.png)
 ### Real Time Chatting with Typing indicators
