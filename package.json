@@ -4,8 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js"
-  },
+    "start": "node backend/server.js",
+    "start:prod": "cd client && npm install && npm run build && cd .. && npm start"
+},
   "keywords": [
     "mern",
     "gap-de"
